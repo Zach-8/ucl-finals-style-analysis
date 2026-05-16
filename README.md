@@ -36,6 +36,13 @@ PSG are the defending champions — electric, attacking, relentless. Arsenal are
 | Defensive beats Attacking | Defensive wins | 7 |
 | Defensive beats Defensive | Defensive wins | 3 |
 
+How to read this table: First style = winner, second style = loser.
+
+Attacking beats Attacking (13): Both teams were attacking sides — one had to win. E.g. Real Madrid beat Liverpool 3-1 in 2018.
+Attacking beats Defensive (10): The attacking team won against a defensive opponent. E.g. Barcelona beat Arsenal 2-1 in 2006. Attacking (7): The defensive team pulled off the upset. E.g. Chelsea beat Bayern on penalties in 2012. This is Arsenal's row.
+Defensive beats Defensive (3): Two defensive teams, lowest scoring finals. E.g. AC Milan vs Juventus 2003 — 0-0 after 120 minutes, decided on penalties.
+
+
 **The headline number: defensive teams beat attacking teams 7 out of 17 times — a 41% win rate.**
 
 That's not an upset. That's a coin flip with a slight lean.
