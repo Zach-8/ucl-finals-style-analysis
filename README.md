@@ -1,4 +1,4 @@
-# ⚽ Style Makes Fights — UCL Finals Analysis (1993–2025)
+# Style Makes Fights — UCL Finals Analysis (1993–2025) and what it says about PSG vs Arsenal
 
 > *"Arsenal don't need to beat PSG. They just need to make it ugly."*
 
@@ -8,26 +8,26 @@ Published ahead of the 2026 UCL Final: **PSG vs Arsenal, May 30th, Budapest.**
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ### Chart 1 — Who wins UCL finals overall?
-![Chart 1](chart1_overall_wins.png)
+[Chart 1](chart1_overall_wins.png)
 
 ### Chart 2 — When defensive meets attacking, who wins?
-![Chart 2](chart2_styles_matchup.png)
+[Chart 2](chart2_styles_matchup.png)
 
 ### Chart 3 — Average goals per final by style matchup
-![Chart 3](chart3_avg_goals.png)
+[Chart 3](chart3_avg_goals.png)
 
 ---
 
-## 🔍 The Question
+## The Question
 
 PSG are the defending champions — electric, attacking, relentless. Arsenal are built on one of the most elite defensive records in Champions League history. 33 years of finals data has something to say about this matchup.
 
 ---
 
-## 💡 Key Findings
+## Findings
 
 | Matchup | Result | Times |
 |---|---|---|
@@ -49,7 +49,7 @@ They are built for exactly this.
 
 ---
 
-## 🏆 The Prediction
+## The Prediction a
 
 **Data says:** PSG win 59% of the time historically in this matchup.
 
@@ -59,7 +59,7 @@ Style makes fights. And Arsenal know exactly what style wins theirs.
 
 ---
 
-## 🛠️ Tools & Data
+## Tools & Data
 
 | Tool | Purpose |
 |---|---|
@@ -71,7 +71,7 @@ Style makes fights. And Arsenal know exactly what style wins theirs.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ucl-finals-style-analysis/
@@ -86,30 +86,21 @@ ucl-finals-style-analysis/
 
 ---
 
-## 🚀 How To Use
-
-1. Download **Power BI Desktop** free at [powerbi.microsoft.com](https://powerbi.microsoft.com)
-2. Clone or download this repo
-3. Open `UCL_Finals_Dashboard.pbix`
-4. Data is embedded — no setup needed
-
----
-
 ## 👤 About
 
 I grew up loving stories — then spent years in MPC, engineering, and networking chasing a living instead. A random seminar on AI and ML reignited everything. Turns out data is just storytelling with better evidence.
 
-I'm Zubair Khan — a football obsessive turned data analyst, using visualisation tools to tell the stories the scoreline doesn't show. Follow along as this project grows through the 2026 World Cup.
+I'm Zubair Khan — a football obsessive turned data analyst, using visualisation tools to tell the stories the scoreline doesn't show. Follow along as this project grows through the world of football
 
 🔗 [linkedin.com/in/zubair-khan-22080753](https://www.linkedin.com/in/zubair-khan-22080753)
 
 ---
 
-## 📬 Read the Full Analysis
+## Read the Full Analysis
 
 The full newsletter breakdown — with the complete prediction and historical precedents — is on my Beehiiv newsletter.
 
-*🔗 [Your Beehiiv link here]*
+*🔗 [Beehiiv]*
 
 ---
 
