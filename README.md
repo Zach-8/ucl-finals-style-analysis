@@ -14,10 +14,10 @@ Published ahead of the 2026 UCL Final: **PSG vs Arsenal, May 30th, Budapest.**
 ![Chart 1](chart1_overall_wins.png)
 
 ### Chart 2 — When defensive meets attacking, who wins?
-[Chart 2](chart2_styles_matchup.png)
+![Chart 2](chart2_styles_matchup.png)
 
 ### Chart 3 — Average goals per final by style matchup
-[Chart 3](chart3_avg_goals.png)
+![Chart 3](chart3_avg_goals.png)
 
 ---
 
