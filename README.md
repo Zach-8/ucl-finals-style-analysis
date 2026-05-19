@@ -107,7 +107,7 @@ I'm Zubair Khan — a football obsessive turned data analyst, using visualisatio
 
 The full newsletter breakdown — with the complete prediction and historical precedents — is on my Beehiiv newsletter.
 
-*🔗 [Beehiiv]*
+*🔗 [https://defensivemid-newsletter.beehiiv.com]*
 
 ---
 
