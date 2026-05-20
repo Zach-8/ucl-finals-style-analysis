@@ -93,7 +93,7 @@ ucl-finals-style-analysis/
 
 ---
 
-## 👤 About
+## About
 
 I grew up loving stories — then spent years in MPC, engineering, and networking chasing a living instead. A random seminar on AI and ML reignited everything. Turns out data is just storytelling with better evidence.
 
